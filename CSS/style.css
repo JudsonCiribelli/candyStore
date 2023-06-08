@@ -110,4 +110,191 @@
   font-size: 20px;
   padding: 20px 30px 0px 0px;
   margin-left: 65px;
+  font-weight: 200;
+}
+.doces1 {
+  display: block;
+  padding-right: 50px;
+  padding-bottom: 40px;
+  margin-top: 50px;
+}
+.doces1 h2 {
+  font-size: 48px;
+  font-weight: 200;
+  color: rgb(0, 101, 153);
+  margin-top: 150px;
+  margin-left: 65px;
+}
+.images-doces {
+  width: 80vw;
+  height: 250px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img1 {
+  width: 200px;
+  height: 200px;
+  background-image: url(../Images/galeria1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 60px;
+}
+.img2 {
+  width: 200px;
+  height: 200px;
+  background-image: url(../Images/galeria2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 30px;
+}
+.img3 {
+  width: 200px;
+  height: 200px;
+  background-image: url(../Images/galeria3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 30px;
+}
+.img4 {
+  width: 200px;
+  height: 200px;
+  background-image: url(../Images/galeria4.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 30px;
+}
+.img5 {
+  width: 200px;
+  height: 200px;
+  background-image: url(../Images/galeria5.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 30px;
+}
+.doces2 h2 {
+  font-size: 48px;
+  font-weight: 200;
+  color: rgb(0, 101, 153);
+  margin-top: 30px;
+  margin-left: 65px;
+}
+.img6 {
+  width: 370px;
+  height: 200px;
+  background-image: url(../Images/galeria6.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 60px;
+}
+.img7 {
+  width: 370px;
+  height: 200px;
+  background-image: url(../Images/galeria7.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.img8 {
+  width: 370px;
+  height: 200px;
+  background-image: url(../Images/galeria8.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.doces3 h2 {
+  font-size: 48px;
+  font-weight: 200;
+  color: rgb(0, 101, 153);
+  margin-top: 30px;
+  margin-left: 65px;
+}
+.img9 {
+  width: 280px;
+  height: 200px;
+  background-image: url(../Images/galeria9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-left: 60px;
+}
+.img10 {
+  width: 280px;
+  height: 200px;
+  background-image: url(../Images/galeria10.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.img11 {
+  width: 280px;
+  height: 200px;
+  background-image: url(../Images/galeria11.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.img12 {
+  width: 280px;
+  height: 200px;
+  background-image: url(../Images/galeria12.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.formulario h2 {
+  font-size: 48px;
+  font-weight: 200;
+  color: rgb(0, 101, 153);
+  margin-top: 30px;
+  margin-left: 65px;
+  margin-bottom: 20px;
+}
+.formulario {
+  width: 500px;
+  height: 400px;
+}
+.for input {
+  width: 500px;
+  height: 45px;
+  display: block;
+  margin-left: 70px;
+  padding: 10px;
+  border: 1px solid #006599;
+  font-size: 16px;
+}
+.for textarea {
+  width: 100%;
+  height: 180px;
+  display: block;
+  margin-left: 70px;
+  padding: 10px;
+  border: 1px solid #006599;
+  font-size: 16px;
+}
+.btn2 {
+  width: 180px;
+  height: 50px;
+  margin-left: 70px;
+  margin-top: 20px;
+  background-color: rgb(0, 101, 153);
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+footer {
+  height: 100px;
+  padding-top: 150px;
+  color: #006599;
+  font-weight: bold;
+
+  text-align: center;
 }
